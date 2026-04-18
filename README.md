@@ -1,15 +1,17 @@
 # Karin Padilla | KaiaOps ⚡
 
-### ⚡ Automation | 🌐 Data Strategy | 📊 Analytics
+Marketing Tech & Data Analyst | Expert in Business Operations | Bridging Strategy & Technical Execution ⚡ 🖥️ 📊
 
-### Bridging the gap between Business Operations and Technical Execution 🔝
+<p align="left">
+  <a href="https://www.linkedin.com/in/karinpadilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kp.karinpadilla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Data Strategy & Automation Specialist focused on optimizing complex processes through scalable technical solutions. Under the **KaiaTech** brand, I design intelligent workflows that transform raw data into strategic decisions.
+Data Strategy & Automation Specialist focused on optimizing complex processes through scalable technical solutions. Under the **KaiaOps** brand, I design intelligent workflows that transform raw data into strategic decisions.
 
 - 🛠️ **Current Focus:** Advanced automation with n8n and Python.
 - 📊 **Data Science:** Strategic analysis and data visualization specialist.
 - 🛡️ **Infrastructure:** Secure Linux environments and virtualization.
-- ✉️ **Contact:** [kp.karinpadilla@gmail.com](mailto:kp.karinpadilla@gmail.com)
 ---
 
 ### 🛠️ Tech Stack & Digital Arsenal
